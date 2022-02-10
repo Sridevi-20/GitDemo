@@ -1,0 +1,330 @@
+2022-01-28 07:55:33,001 [main] INFO Settleking - URL is opened
+2022-01-28 07:55:33,304 [main] INFO Settleking - Entered EmailId
+2022-01-28 07:55:33,419 [main] INFO Settleking - Enter the password
+2022-01-28 07:55:33,525 [main] INFO Settleking - Login test passed
+2022-01-28 07:55:58,949 [main] INFO Settleking - URL is opened
+2022-01-28 07:55:59,198 [main] INFO Settleking - Entered EmailId
+2022-01-28 07:55:59,308 [main] INFO Settleking - Enter the password
+2022-01-28 07:55:59,429 [main] INFO Settleking - Login test passed
+2022-01-28 10:20:31,710 [main] INFO Settleking - URL is opened
+2022-01-28 10:20:32,243 [main] INFO Settleking - Entered EmailId
+2022-01-28 10:20:32,421 [main] INFO Settleking - Enter the password
+2022-01-28 10:20:32,590 [main] INFO Settleking - Login test passed
+2022-01-28 10:39:40,516 [main] INFO Settleking - URL is opened
+2022-01-28 10:39:40,832 [main] INFO Settleking - Entered EmailId
+2022-01-28 10:39:40,971 [main] INFO Settleking - Enter the password
+2022-01-28 10:39:41,055 [main] INFO Settleking - Login test passed
+2022-01-28 19:31:26,411 [main] INFO Settleking - URL is opened
+2022-01-28 19:31:27,407 [main] INFO Settleking - Entered EmailId
+2022-01-28 19:31:27,539 [main] INFO Settleking - Enter the password
+2022-01-28 19:31:27,629 [main] INFO Settleking - Login test passed
+2022-01-28 19:35:05,117 [main] INFO Settleking - URL is opened
+2022-01-28 19:35:05,494 [main] INFO Settleking - Entered EmailId
+2022-01-28 19:35:05,841 [main] INFO Settleking - Enter the password
+2022-01-28 19:35:06,360 [main] INFO Settleking - Login test passed
+2022-01-30 19:36:55,761 [main] INFO Settleking - URL is opened
+2022-01-30 19:36:56,630 [main] INFO Settleking - Entered EmailId
+2022-01-30 19:36:56,742 [main] INFO Settleking - Enter the password
+2022-01-30 19:36:56,830 [main] INFO Settleking - Login test passed
+2022-01-30 19:43:17,996 [main] INFO Settleking - URL is opened
+2022-01-30 19:43:18,282 [main] INFO Settleking - Entered EmailId
+2022-01-30 19:43:18,384 [main] INFO Settleking - Enter the password
+2022-01-30 19:43:18,501 [main] INFO Settleking - Login test passed
+2022-01-30 19:59:24,906 [main] INFO Settleking - URL is opened
+2022-01-30 19:59:25,123 [main] INFO Settleking - Entered EmailId
+2022-01-30 19:59:25,261 [main] INFO Settleking - Entered the password
+2022-01-30 19:59:25,388 [main] INFO Settleking - Login test passed
+2022-01-30 20:02:54,557 [main] INFO Settleking - URL is opened
+2022-01-30 20:02:54,774 [main] INFO Settleking - Entered EmailId
+2022-01-30 20:02:54,888 [main] INFO Settleking - Entered the password
+2022-01-30 20:02:54,993 [main] INFO Settleking - Login test passed
+2022-01-30 20:08:59,588 [main] INFO Settleking - URL is opened
+2022-01-30 20:08:59,854 [main] INFO Settleking - Entered EmailId
+2022-01-30 20:08:59,987 [main] INFO Settleking - Entered the password
+2022-01-30 20:58:20,661 [main] INFO Settleking - URL is opened
+2022-01-30 20:58:20,880 [main] INFO Settleking - Entered EmailId
+2022-01-30 20:58:20,991 [main] INFO Settleking - Entered the password
+2022-01-30 20:58:21,101 [main] INFO Settleking - Login test passed
+2022-01-30 21:06:44,816 [main] INFO Settleking - Entered in to the homepage
+2022-01-30 21:06:47,066 [main] INFO Settleking - user name provided
+2022-01-30 21:06:47,200 [main] INFO Settleking - password provided
+2022-01-30 21:06:47,286 [main] INFO Settleking - clicked submit
+2022-01-30 21:06:49,334 [main] INFO Settleking - Login passed
+2022-01-30 21:13:11,984 [main] INFO Settleking - Entered in to the homepage
+2022-01-30 21:13:14,318 [main] INFO Settleking - user name provided
+2022-01-30 21:13:14,495 [main] INFO Settleking - password provided
+2022-01-30 21:13:14,614 [main] INFO Settleking - clicked submit
+2022-01-30 21:13:18,712 [main] INFO Settleking - Login passed
+2022-01-30 21:15:44,951 [main] INFO Settleking - Entered in to the homepage
+2022-01-30 21:15:47,208 [main] INFO Settleking - user name provided
+2022-01-30 21:15:47,374 [main] INFO Settleking - password provided
+2022-01-30 21:15:47,466 [main] INFO Settleking - clicked submit
+2022-01-30 21:15:51,385 [main] INFO Settleking - Login passed
+2022-01-30 21:42:29,327 [main] INFO Settleking - Entered in to the homepage
+2022-01-30 21:42:31,609 [main] INFO Settleking - user name provided
+2022-01-30 21:42:31,762 [main] INFO Settleking - password provided
+2022-01-30 21:42:31,860 [main] INFO Settleking - clicked submit
+2022-01-30 21:42:35,998 [main] INFO Settleking - Login passed
+2022-01-30 21:42:36,237 [main] INFO Settleking - Entered in to the homepage
+2022-01-30 21:42:38,402 [main] INFO Settleking - user name provided
+2022-01-30 21:42:38,515 [main] INFO Settleking - password provided
+2022-01-30 21:42:38,586 [main] INFO Settleking - clicked submit
+2022-01-30 21:42:40,622 [main] INFO Settleking - Login failed
+2022-01-30 21:42:43,636 [main] INFO Settleking - Invalid Credentials
+2022-01-30 21:43:14,084 [main] INFO Settleking - Entered in to the homepage
+2022-01-30 21:43:16,379 [main] INFO Settleking - user name provided
+2022-01-30 21:43:16,477 [main] INFO Settleking - password provided
+2022-01-30 21:43:16,544 [main] INFO Settleking - clicked submit
+2022-01-30 21:43:18,561 [main] INFO Settleking - Login failed
+2022-01-30 21:43:21,569 [main] INFO Settleking - Invalid Credentials
+2022-01-30 21:45:20,461 [main] INFO Settleking - User is on the Login Page
+2022-01-30 21:45:22,743 [main] INFO Settleking - user name provided
+2022-01-30 21:45:22,867 [main] INFO Settleking - password provided
+2022-01-30 21:45:22,978 [main] INFO Settleking - clicked submit
+2022-01-30 21:45:27,439 [main] INFO Settleking - Login passed
+2022-01-30 21:45:27,751 [main] INFO Settleking - User is on the Login Page
+2022-01-30 21:45:29,920 [main] INFO Settleking - user name provided
+2022-01-30 21:45:30,030 [main] INFO Settleking - password provided
+2022-01-30 21:45:30,104 [main] INFO Settleking - clicked submit
+2022-01-30 21:45:32,130 [main] INFO Settleking - Login failed
+2022-01-30 21:45:35,141 [main] INFO Settleking - Invalid Credentials
+2022-01-30 21:46:05,233 [main] INFO Settleking - User is on the Login Page
+2022-01-30 21:46:07,519 [main] INFO Settleking - user name provided
+2022-01-30 21:46:07,620 [main] INFO Settleking - password provided
+2022-01-30 21:46:07,686 [main] INFO Settleking - clicked submit
+2022-01-30 21:46:09,706 [main] INFO Settleking - Login failed
+2022-01-30 21:46:12,716 [main] INFO Settleking - Invalid Credentials
+2022-01-30 21:51:19,431 [main] INFO Settleking - user name provided
+2022-01-30 21:51:19,554 [main] INFO Settleking - password provided
+2022-01-30 21:51:19,631 [main] INFO Settleking - clicked submit
+2022-01-30 21:51:23,632 [main] INFO Settleking - Login failed
+2022-01-30 21:51:26,639 [main] INFO Settleking - Invalid Credentials
+2022-01-30 21:55:35,797 [main] INFO Settleking - user name provided
+2022-01-30 21:55:35,912 [main] INFO Settleking - password provided
+2022-01-30 21:55:35,988 [main] INFO Settleking - clicked submit
+2022-01-30 21:55:38,046 [main] INFO Settleking - Login failed
+2022-01-30 21:55:41,060 [main] INFO Settleking - Invalid Credentials
+2022-01-30 22:04:09,730 [main] INFO Settleking - user name provided
+2022-01-30 22:04:09,855 [main] INFO Settleking - password provided
+2022-01-30 22:04:09,933 [main] INFO Settleking - clicked submit
+2022-01-30 22:04:11,981 [main] INFO Settleking - Login failed
+2022-01-30 22:04:14,986 [main] INFO Settleking - Invalid Credentials
+2022-01-30 22:05:53,653 [main] INFO Settleking - user name provided
+2022-01-30 22:05:53,825 [main] INFO Settleking - password provided
+2022-01-30 22:05:53,898 [main] INFO Settleking - clicked submit
+2022-01-30 22:05:58,069 [main] INFO Settleking - Login failed
+2022-01-30 22:06:01,084 [main] INFO Settleking - Invalid Credentials
+2022-01-30 22:06:30,417 [main] INFO Settleking - user name provided
+2022-01-30 22:06:30,542 [main] INFO Settleking - password provided
+2022-01-30 22:06:30,616 [main] INFO Settleking - clicked submit
+2022-01-30 22:06:35,045 [main] INFO Settleking - Login failed
+2022-01-30 22:06:38,050 [main] INFO Settleking - Invalid Credentials
+2022-01-30 22:07:33,978 [main] INFO Settleking - user name provided
+2022-01-30 22:07:34,105 [main] INFO Settleking - password provided
+2022-01-30 22:07:34,172 [main] INFO Settleking - clicked submit
+2022-01-30 22:07:37,992 [main] INFO Settleking - Login failed
+2022-01-30 22:07:41,006 [main] INFO Settleking - Invalid Credentials
+2022-01-30 22:09:32,906 [main] INFO Settleking - user name provided
+2022-01-30 22:09:33,029 [main] INFO Settleking - password provided
+2022-01-30 22:09:33,105 [main] INFO Settleking - clicked submit
+2022-01-30 22:09:36,989 [main] INFO Settleking - Login failed
+2022-01-30 22:09:40,003 [main] INFO Settleking - Invalid Credentials
+2022-01-30 22:11:48,995 [main] INFO Settleking - user name provided
+2022-01-30 22:11:49,102 [main] INFO Settleking - password provided
+2022-01-30 22:11:49,175 [main] INFO Settleking - clicked submit
+2022-01-30 22:11:53,112 [main] INFO Settleking - Login failed
+2022-01-30 22:11:56,128 [main] INFO Settleking - Invalid Credentials
+2022-01-30 22:15:47,479 [main] INFO Settleking - user name provided
+2022-01-30 22:15:47,593 [main] INFO Settleking - password provided
+2022-01-30 22:15:47,665 [main] INFO Settleking - clicked submit
+2022-01-30 22:15:49,673 [main] INFO Settleking - Login failed
+2022-01-30 22:15:52,689 [main] INFO Settleking - Invalid Credentials
+2022-01-30 22:16:23,430 [main] INFO Settleking - user name provided
+2022-01-30 22:16:23,540 [main] INFO Settleking - password provided
+2022-01-30 22:16:23,606 [main] INFO Settleking - clicked submit
+2022-01-30 22:16:25,635 [main] INFO Settleking - Login failed
+2022-01-30 22:16:28,636 [main] INFO Settleking - Invalid Credentials
+2022-01-30 22:16:58,836 [main] INFO Settleking - user name provided
+2022-01-30 22:16:58,921 [main] INFO Settleking - password provided
+2022-01-30 22:16:58,968 [main] INFO Settleking - clicked submit
+2022-01-30 22:17:00,984 [main] INFO Settleking - Login failed
+2022-01-30 22:17:03,987 [main] INFO Settleking - Invalid Credentials
+2022-01-30 22:17:34,547 [main] INFO Settleking - user name provided
+2022-01-30 22:17:34,635 [main] INFO Settleking - password provided
+2022-01-30 22:17:34,692 [main] INFO Settleking - clicked submit
+2022-01-30 22:17:36,699 [main] INFO Settleking - Login failed
+2022-01-30 22:17:39,701 [main] INFO Settleking - Invalid Credentials
+2022-01-30 22:17:41,854 [main] INFO Settleking - user name provided
+2022-01-30 22:17:41,993 [main] INFO Settleking - password provided
+2022-01-30 22:17:42,073 [main] INFO Settleking - clicked submit
+2022-01-30 22:17:44,090 [main] INFO Settleking - Login failed
+2022-01-30 22:17:47,101 [main] INFO Settleking - Invalid Credentials
+2022-01-30 22:18:56,598 [main] INFO Settleking - User is on the Login Page
+2022-01-30 22:18:58,987 [main] INFO Settleking - user name provided
+2022-01-30 22:18:59,097 [main] INFO Settleking - password provided
+2022-01-30 22:18:59,181 [main] INFO Settleking - clicked submit
+2022-01-30 22:19:03,440 [main] INFO Settleking - Login passed
+2022-01-30 22:21:37,568 [main] INFO Settleking - User is on the Login Page
+2022-01-30 22:21:39,928 [main] INFO Settleking - user name provided
+2022-01-30 22:21:40,055 [main] INFO Settleking - password provided
+2022-01-30 22:21:40,134 [main] INFO Settleking - clicked submit
+2022-01-30 22:21:44,635 [main] INFO Settleking - Login passed
+2022-01-30 22:24:25,548 [main] INFO Settleking - User is on the Login Page
+2022-01-30 22:24:27,767 [main] INFO Settleking - user name provided
+2022-01-30 22:24:27,890 [main] INFO Settleking - password provided
+2022-01-30 22:24:27,986 [main] INFO Settleking - clicked submit
+2022-01-30 22:24:32,741 [main] INFO Settleking - Login passed
+2022-01-30 22:27:31,665 [main] INFO Settleking - User is on the Login Page
+2022-01-30 22:27:33,925 [main] INFO Settleking - user name provided
+2022-01-30 22:27:34,034 [main] INFO Settleking - password provided
+2022-01-30 22:27:34,201 [main] INFO Settleking - clicked submit
+2022-01-30 22:27:39,089 [main] INFO Settleking - Login passed
+2022-01-30 22:29:10,311 [main] INFO Settleking - User is on the Login Page
+2022-01-30 22:29:12,598 [main] INFO Settleking - user name provided
+2022-01-30 22:29:12,735 [main] INFO Settleking - password provided
+2022-01-30 22:29:12,823 [main] INFO Settleking - clicked submit
+2022-01-30 22:29:17,218 [main] INFO Settleking - Login passed
+2022-02-03 22:45:33,757 [main] INFO Settleking - User is on the Login Page
+2022-02-03 22:45:36,448 [main] INFO Settleking - user name provided
+2022-02-03 22:45:36,567 [main] INFO Settleking - password provided
+2022-02-03 22:45:36,656 [main] INFO Settleking - clicked submit
+2022-02-03 22:45:40,978 [main] INFO Settleking - Login passed
+2022-02-03 22:52:14,770 [main] INFO Settleking - User is on the Login Page
+2022-02-03 22:52:17,171 [main] INFO Settleking - user name provided
+2022-02-03 22:52:17,313 [main] INFO Settleking - password provided
+2022-02-03 22:52:17,418 [main] INFO Settleking - clicked submit
+2022-02-03 22:52:19,471 [main] INFO Settleking - Login passed
+2022-02-03 22:52:24,762 [main] INFO Settleking - User is on the Login Page
+2022-02-03 22:52:27,005 [main] INFO Settleking - user name provided
+2022-02-03 22:52:27,126 [main] INFO Settleking - password provided
+2022-02-03 22:52:27,188 [main] INFO Settleking - clicked submit
+2022-02-03 22:52:29,208 [main] INFO Settleking - Login failed
+2022-02-03 22:52:32,223 [main] INFO Settleking - Invalid Credentials
+2022-02-03 22:53:02,612 [main] INFO Settleking - User is on the Login Page
+2022-02-03 22:53:04,931 [main] INFO Settleking - user name provided
+2022-02-03 22:53:05,075 [main] INFO Settleking - password provided
+2022-02-03 22:53:05,155 [main] INFO Settleking - clicked submit
+2022-02-03 22:53:07,180 [main] INFO Settleking - Login failed
+2022-02-03 22:53:10,199 [main] INFO Settleking - Invalid Credentials
+2022-02-03 22:53:40,733 [main] INFO Settleking - User is on the Login Page
+2022-02-03 22:53:42,946 [main] INFO Settleking - user name provided
+2022-02-03 22:53:43,025 [main] INFO Settleking - password provided
+2022-02-03 22:53:43,084 [main] INFO Settleking - clicked submit
+2022-02-03 22:53:45,101 [main] INFO Settleking - Login failed
+2022-02-03 22:53:48,101 [main] INFO Settleking - Invalid Credentials
+2022-02-03 22:55:25,837 [main] INFO Settleking - User is on the Login Page
+2022-02-03 22:55:28,213 [main] INFO Settleking - user name provided
+2022-02-03 22:55:28,366 [main] INFO Settleking - password provided
+2022-02-03 22:55:28,441 [main] INFO Settleking - clicked submit
+2022-02-03 22:55:33,079 [main] INFO Settleking - Login passed
+2022-02-03 22:55:38,749 [main] INFO Settleking - User is on the Login Page
+2022-02-03 22:55:41,113 [main] INFO Settleking - user name provided
+2022-02-03 22:55:41,250 [main] INFO Settleking - password provided
+2022-02-03 22:55:41,305 [main] INFO Settleking - clicked submit
+2022-02-03 22:55:43,325 [main] INFO Settleking - Login failed
+2022-02-03 22:55:46,334 [main] INFO Settleking - Invalid Credentials
+2022-02-03 22:56:16,619 [main] INFO Settleking - User is on the Login Page
+2022-02-03 22:56:18,948 [main] INFO Settleking - user name provided
+2022-02-03 22:56:19,064 [main] INFO Settleking - password provided
+2022-02-03 22:56:19,112 [main] INFO Settleking - clicked submit
+2022-02-03 22:56:21,129 [main] INFO Settleking - Login failed
+2022-02-03 22:56:24,144 [main] INFO Settleking - Invalid Credentials
+2022-02-03 22:56:54,628 [main] INFO Settleking - User is on the Login Page
+2022-02-03 22:56:56,793 [main] INFO Settleking - user name provided
+2022-02-03 22:56:56,905 [main] INFO Settleking - password provided
+2022-02-03 22:56:56,949 [main] INFO Settleking - clicked submit
+2022-02-03 22:56:58,965 [main] INFO Settleking - Login failed
+2022-02-03 22:57:01,974 [main] INFO Settleking - Invalid Credentials
+2022-02-03 23:00:12,845 [main] INFO Settleking - User is on the Login Page
+2022-02-03 23:00:15,177 [main] INFO Settleking - user name provided
+2022-02-03 23:00:15,352 [main] INFO Settleking - password provided
+2022-02-03 23:00:15,431 [main] INFO Settleking - clicked submit
+2022-02-03 23:00:20,012 [main] INFO Settleking - Login passed
+2022-02-03 23:00:25,530 [main] INFO Settleking - User is on the Login Page
+2022-02-03 23:00:27,900 [main] INFO Settleking - user name provided
+2022-02-03 23:00:28,080 [main] INFO Settleking - password provided
+2022-02-03 23:00:28,152 [main] INFO Settleking - clicked submit
+2022-02-03 23:00:30,169 [main] INFO Settleking - Login failed
+2022-02-03 23:00:33,181 [main] INFO Settleking - Invalid Credentials
+2022-02-03 23:01:03,373 [main] INFO Settleking - User is on the Login Page
+2022-02-03 23:01:05,690 [main] INFO Settleking - user name provided
+2022-02-03 23:01:05,894 [main] INFO Settleking - password provided
+2022-02-03 23:01:05,941 [main] INFO Settleking - clicked submit
+2022-02-03 23:01:07,960 [main] INFO Settleking - Login failed
+2022-02-03 23:01:10,974 [main] INFO Settleking - Invalid Credentials
+2022-02-03 23:01:41,522 [main] INFO Settleking - User is on the Login Page
+2022-02-03 23:01:43,814 [main] INFO Settleking - user name provided
+2022-02-03 23:01:43,931 [main] INFO Settleking - password provided
+2022-02-03 23:01:43,974 [main] INFO Settleking - clicked submit
+2022-02-03 23:01:45,991 [main] INFO Settleking - Login failed
+2022-02-03 23:01:49,026 [main] INFO Settleking - Invalid Credentials
+2022-02-05 20:45:39,805 [main] INFO Settleking - user name provided
+2022-02-05 20:45:39,962 [main] INFO Settleking - password provided
+2022-02-05 20:45:40,054 [main] INFO Settleking - clicked submit
+2022-02-05 20:45:41,243 [main] INFO Settleking - clicked Create Settlement link
+2022-02-05 20:45:41,361 [main] INFO Settleking - clicked Live poker link
+2022-02-05 20:45:43,672 [main] INFO Settleking - Entered game name
+2022-02-05 20:45:45,892 [main] INFO Settleking - clicked on Add Friends button
+2022-02-05 20:54:27,217 [main] INFO Settleking - user name provided
+2022-02-05 20:54:27,367 [main] INFO Settleking - password provided
+2022-02-05 20:54:27,434 [main] INFO Settleking - clicked submit
+2022-02-05 20:54:28,691 [main] INFO Settleking - clicked Create Settlement link
+2022-02-05 20:54:31,112 [main] INFO Settleking - clicked Live poker link
+2022-02-05 20:54:33,277 [main] INFO Settleking - Entered game name
+2022-02-05 20:54:35,450 [main] INFO Settleking - clicked on Add Friends button
+2022-02-05 20:55:11,351 [main] INFO Settleking - user name provided
+2022-02-05 20:55:11,476 [main] INFO Settleking - password provided
+2022-02-05 20:55:11,562 [main] INFO Settleking - clicked submit
+2022-02-05 20:55:12,704 [main] INFO Settleking - clicked Create Settlement link
+2022-02-05 20:55:14,606 [main] INFO Settleking - clicked Live poker link
+2022-02-05 20:55:16,919 [main] INFO Settleking - Entered game name
+2022-02-05 20:55:19,102 [main] INFO Settleking - clicked on Add Friends button
+2022-02-05 20:57:44,077 [main] INFO Settleking - user name provided
+2022-02-05 20:57:44,200 [main] INFO Settleking - password provided
+2022-02-05 20:57:44,282 [main] INFO Settleking - clicked submit
+2022-02-05 20:57:45,625 [main] INFO Settleking - clicked Create Settlement link
+2022-02-05 20:57:46,094 [main] INFO Settleking - clicked Live poker link
+2022-02-05 20:57:48,317 [main] INFO Settleking - Entered game name
+2022-02-05 20:57:50,492 [main] INFO Settleking - clicked on Add Friends button
+2022-02-05 21:01:39,612 [main] INFO Settleking - user name provided
+2022-02-05 21:01:39,734 [main] INFO Settleking - password provided
+2022-02-05 21:01:39,829 [main] INFO Settleking - clicked submit
+2022-02-05 21:01:42,778 [main] INFO Settleking - clicked Create Settlement link
+2022-02-05 21:01:42,913 [main] INFO Settleking - clicked Live poker link
+2022-02-05 21:01:45,092 [main] INFO Settleking - Entered game name
+2022-02-05 21:01:47,310 [main] INFO Settleking - clicked on Add Friends button
+2022-02-05 21:08:34,847 [main] INFO Settleking - user name provided
+2022-02-05 21:08:34,963 [main] INFO Settleking - password provided
+2022-02-05 21:08:35,060 [main] INFO Settleking - clicked submit
+2022-02-05 21:08:36,301 [main] INFO Settleking - clicked Create Settlement link
+2022-02-05 21:08:38,206 [main] INFO Settleking - clicked Live poker link
+2022-02-05 21:08:40,459 [main] INFO Settleking - Entered game name
+2022-02-05 21:08:42,632 [main] INFO Settleking - clicked on Add Friends button
+2022-02-05 21:50:51,217 [main] INFO Settleking - user name provided
+2022-02-05 21:50:51,637 [main] INFO Settleking - password provided
+2022-02-05 21:50:51,777 [main] INFO Settleking - clicked submit
+2022-02-05 21:50:54,229 [main] INFO Settleking - clicked Create Settlement link
+2022-02-05 21:50:54,407 [main] INFO Settleking - clicked Live poker link
+2022-02-05 21:50:57,134 [main] INFO Settleking - Entered game name
+2022-02-05 21:50:59,325 [main] INFO Settleking - clicked on Add Friends button
+2022-02-05 21:51:46,520 [main] INFO Settleking - user name provided
+2022-02-05 21:51:46,644 [main] INFO Settleking - password provided
+2022-02-05 21:51:46,731 [main] INFO Settleking - clicked submit
+2022-02-05 21:51:48,517 [main] INFO Settleking - clicked Create Settlement link
+2022-02-05 21:51:48,730 [main] INFO Settleking - clicked Live poker link
+2022-02-05 21:51:50,992 [main] INFO Settleking - Entered game name
+2022-02-05 21:51:53,250 [main] INFO Settleking - clicked on Add Friends button
+2022-02-05 21:53:06,897 [main] INFO Settleking - user name provided
+2022-02-05 21:53:07,024 [main] INFO Settleking - password provided
+2022-02-05 21:53:07,123 [main] INFO Settleking - clicked submit
+2022-02-05 21:53:08,808 [main] INFO Settleking - clicked Create Settlement link
+2022-02-05 21:53:08,878 [main] INFO Settleking - clicked Live poker link
+2022-02-05 21:53:11,083 [main] INFO Settleking - Entered game name
+2022-02-05 21:53:13,270 [main] INFO Settleking - clicked on Add Friends button
+2022-02-06 14:18:37,183 [main] INFO Settleking - user name provided
+2022-02-06 14:18:37,399 [main] INFO Settleking - password provided
+2022-02-06 14:18:37,465 [main] INFO Settleking - clicked submit
+2022-02-06 14:18:38,836 [main] INFO Settleking - clicked Create Settlement link
+2022-02-06 14:18:40,018 [main] INFO Settleking - clicked Live poker link
+2022-02-06 14:18:42,275 [main] INFO Settleking - Entered game name
+2022-02-06 14:18:44,470 [main] INFO Settleking - clicked on Add Friends button

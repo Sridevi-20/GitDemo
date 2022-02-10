@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [SettleKing]">
+  <parameter name="browser" value="chrome"/>
+  <listeners>
+    <listener class-name="com.settleking.utilities.Reporting"/>
+  </listeners>
+  <test name="SettleKing Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.settleking.testCases.TC_CreateSettlement_003">
+        <methods>
+          <include name="CreateSettlement"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.settleking.testCases.TC_CreateSettlement_003 -->
+    </classes>
+  </test> <!-- SettleKing Test(failed) -->
+</suite> <!-- Failed suite [SettleKing] -->
